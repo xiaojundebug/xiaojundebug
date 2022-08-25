@@ -1,11 +1,11 @@
 ### About me
 
 - 💼 前端开发者，热爱新技术，目前从事于 toB 直播行业
-- ❤️ 热爱新技术，偶尔喜欢写点小东西
-- 👀 英语全靠谷歌，但我命名很谨慎，有一点点 🤏 完美主义
-- 👏 欢迎访问我的 blog 👉 <https://xiaojun1994.top>
+- ❤️ 热爱新技术，偶尔喜欢写点小东西，最近在学习 Next.js
+- 👀 英语全靠谷歌，但我命名很谨慎，有一点点 🤏 完美主义，努力写出好的代码
+- 📝 欢迎访问我的 blog 👉 <https://xiaojun1994.top>
 
-**我的技能**
+**Skills**
 
 `React` `Vue2` `Angular` `TypeScript` `RxJS` `NestJS` `Next.js` `UmiJS` ...
 
