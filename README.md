@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm xiaojun1994." src="./assets/gh-readme-header.png" /></p>
+<p align="center"><img width="50%" alt="Hello, I'm xiaojun1994." src="./assets/gh-readme-header.png" /></p>
 
 ### About me
 
