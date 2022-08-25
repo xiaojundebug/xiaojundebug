@@ -1,3 +1,5 @@
+<p align="center"><img width="80%" alt="Hello, I'm xiaojun1994." src="xxx" /></p>
+
 ### About me
 
 - 💼 一个前端开发者，目前从事于 toB 直播行业
