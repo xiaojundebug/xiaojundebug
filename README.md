@@ -7,7 +7,7 @@
 
 **我的技能**
 
-`React` `Vue2` `Angular2` `TypeScript` `RxJS` `NestJS` `Next.js` `UmiJS` ...
+`React` `Vue2` `Angular` `TypeScript` `RxJS` `NestJS` `Next.js` `UmiJS` ...
 
 
 
