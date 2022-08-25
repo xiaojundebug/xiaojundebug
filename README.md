@@ -1,7 +1,5 @@
 <p align="center"><img width="50%" alt="Hello, I'm xiaojun1994." src="./assets/gh-readme-header.png" /></p>
 
----
-
 ### About me
 
 - 💼 一个前端开发者（2017 ～ 至今），目前从事于 toB 直播行业
