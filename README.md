@@ -15,7 +15,8 @@
 
 `RxJS` `NestJS` `Next.js` ...
 
-# Latest Blog Posts
+### Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [偷偷给网站写了一个霓虹风格计数器](https://www.xiaojun.im/posts/2023-10-28-retro-hit-counter)
 - [MacOS 效率提升神器之 Hammerspoon](https://www.xiaojun.im/posts/2023-06-20-hammerspoon)
