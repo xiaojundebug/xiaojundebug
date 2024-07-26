@@ -19,8 +19,7 @@
 
 ### Latest Blog Posts
 
-<table>
+<ul>
   <!-- BLOG-POST-LIST:START -->
-<tr><td>10/28/2023</td><td>[偷偷给网站写了一个霓虹风格计数器](https://www.xiaojun.im/posts/2023-10-28-retro-hit-counter)</td></tr><tr><td>06/20/2023</td><td>[MacOS 效率提升神器之 Hammerspoon](https://www.xiaojun.im/posts/2023-06-20-hammerspoon)</td></tr><tr><td>04/26/2023</td><td>[MDX Syntax - Math Equations](https://www.xiaojun.im/posts/2023-04-27-mdx-syntax-math-equations)</td></tr><tr><td>04/26/2023</td><td>[MDX Syntax - CodePlayground](https://www.xiaojun.im/posts/2023-04-27-mdx-syntax-code-playground)</td></tr><tr><td>04/26/2023</td><td>[MDX Syntax - ThirdParty Embeds](https://www.xiaojun.im/posts/2023-04-27-mdx-syntax-third-party-embeds)</td></tr>
-<!-- BLOG-POST-LIST:END -->
-</table>
+  <!-- BLOG-POST-LIST:END -->
+</ul>

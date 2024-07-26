@@ -18,6 +18,6 @@ jobs:
         with:
           feed_list: "https://www.xiaojun.im/feed.xml"
           max_post_count: 5
-          template: "<tr><td>$date</td><td>[$title]($url)</td></tr>"
+          template: "<li>$date - <a href=\"$url\">$title</a></li>"
           date_format: "mm/dd/yyyy"
           tag_post_pre_newline: true
