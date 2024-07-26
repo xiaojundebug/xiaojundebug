@@ -15,6 +15,8 @@
 
 `RxJS` `NestJS` `Next.js` ...
 
+[![Xiaojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaojundebug&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true)](https://github.com/xiaojundebug)
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +26,3 @@
 - [MDX Syntax - CodePlayground](https://www.xiaojun.im/posts/2023-04-27-mdx-syntax-code-playground)
 - [MDX Syntax - ThirdParty Embeds](https://www.xiaojun.im/posts/2023-04-27-mdx-syntax-third-party-embeds)
 <!-- BLOG-POST-LIST:END -->
-
-| <a href="https://github.com/xiaojundebug"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaojundebug&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xiaojundebug's github stats" /></a> |
-| ------------- |
