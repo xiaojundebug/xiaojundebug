@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in xiaojun.im posts
+      - name: Pull in xiaojun.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.xiaojun.im/feed.xml"
+          feed_list: "https://www.xiaojun.dev/feed.xml"
           max_post_count: 5
