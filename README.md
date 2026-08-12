@@ -13,7 +13,7 @@
 
 `RxJS` `NestJS` `Next.js` ...
 
-![Xiaojun's GitHub stats](https://github-stats-extended.vercel.app/api?username=xiaojundebug&show_icons=true&include_all_commits=true&theme=vue&hide_border=true)
+![Xiaojun's GitHub stats](https://github-stats-extended.vercel.app/api?username=xiaojundebug&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)
 
 ### Latest Blog Posts
 
