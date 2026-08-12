@@ -5,6 +5,8 @@
 - 🔥 痴迷于提高个人生产力
 - 🌱 最近在用 Next.js 重构 Blog，欢迎访问 👉 <https://xiaojun.dev>
 
+![Xiaojun's GitHub stats](https://github-stats-extended.vercel.app/api?username=xiaojundebug&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
